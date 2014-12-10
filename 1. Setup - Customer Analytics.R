@@ -2,7 +2,7 @@
 ## Title: Customer Analytics: Environment Setup
 ## Version: 0.1
 ## Autor: Josep Curto
-## Description: Packages that can be used to analyse customer data
+## Description: Packages that can be used for customer analytics
 ###############################################################################
 
 # Package installation
